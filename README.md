@@ -5,7 +5,7 @@
 - 👀 I’m interested in the dark arts
 - 🌱 I’m currently learning Rust, Solidity, Generative Deep Learning, and more
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: skeith@asterialabs.io ([GPG Key on Keybase](https://keybase.io/skeithc))
+- 📫 How to reach me: github@skeith.dev ([GPG Key on Keybase](https://keybase.io/skeithc))
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskeithc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
