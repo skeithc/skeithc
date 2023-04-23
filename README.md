@@ -2,7 +2,8 @@
      align="right"
      width="150px"/>
 - 👋 Hi, I’m @skeithc
-- 👀 I’m interested in the dark arts
+- 🖥️ I’m a full stack developer who does frontend, backend, devops, smart contracts, and smart contract audits
+- 👀 I’m interested in learning about and contributing to cool things that have a positive impact to society
 - 🌱 I’m currently learning Rust, Solidity, Generative Deep Learning, and more
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: github@skeith.dev ([GPG Key on Keybase](https://keybase.io/skeithc))
