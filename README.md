@@ -12,9 +12,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskeithc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=skeithc&layout=compact&show_icons=true&theme=dracula)
+[![Skeith's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=skeithc&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/skeithc#gh-dark-mode-only)
+[![Skeith's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=skeithc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/skeithc#gh-light-mode-only)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skeithc&layout=compact&shop_icons=true&theme=dracula)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skeithc&layout=compact&shop_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/skeithc#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skeithc&layout=compact&shop_icons=true&theme=default#gh-light-mode-only)](https://github.com/skeithc#gh-light-mode-only)
 
 <!---
 skeithc/skeithc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
